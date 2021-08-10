@@ -1,5 +1,5 @@
 .contact-clean {
-  background: #f1f7fc;
+  background: rgb(255, 255, 255);
   padding: 80px 0;
 }
 
@@ -17,7 +17,7 @@
   padding: 40px;
   border-radius: 4px;
   color: #505e6c;
-  box-shadow: 1px 1px 5px rgba(0,0,0,0.1);
+  box-shadow: 1px 1px 5px rgba(233, 0, 0, 0.1);
 }
 
 @media (max-width:767px) {
@@ -83,7 +83,7 @@
 }
 
 .contact-clean form .btn-primary {
-  background-color: #055ada !important;
+  background-color: #c22222 !important;
   margin-top: 15px;
   color: #fff;
 }
